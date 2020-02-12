@@ -112,7 +112,7 @@ http://bytomgrant.mikecrm.com/1PBhAyH
 
 
 
-参考链接：
+参考链接：[模板链接](https://github.com/Bytom/Bytom-Grant/blob/master/template.md)
 
 
 
