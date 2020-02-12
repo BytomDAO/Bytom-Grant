@@ -1,5 +1,3 @@
-## **grant_application_template**
-
 # Project Name
 
 ## Project Introduction
