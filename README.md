@@ -13,7 +13,7 @@ If you wish to apply for the Bytom bounty task, please follow the following proc
 
 ### 1.Determine the scope of your project
 
-- Bytom provides a bounty task list, you can design your project according to these requirements, refer to the ["bounty task requirement list"]((#Bounty-task-list))
+- Bytom provides a bounty task list, you can design your project according to these requirements, refer to the ["bounty task requirement list"](#Bounty-task-list)
 - If you have a better idea, please let us know. Let's discuss it together or propose a new BMIP to us.
 - Confirm that your project meets the application requirements for the bounty task, refer to ["Notes for Bounty Task Application" ](#notes-for-applicants)
 
@@ -23,7 +23,7 @@ If you wish to apply for the Bytom bounty task, please follow the following proc
 
 - Fill in detailed project description
 
-  Refer to the project instruction template，[Template](https://github.com/Bytom/Bytom-Grant/blob/master/template.md)
+  Refer to the project instruction template: [Template](https://github.com/Bytom/Bytom-Grant/blob/master/template.md)
 
   Please be as specific as possible, make sure you include necessary details 
 
