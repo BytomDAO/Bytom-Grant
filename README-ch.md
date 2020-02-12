@@ -27,7 +27,7 @@
 
 2.2、填写详细的项目说明书
 
-参考项目说明书模板
+参考项目说明书模板，[模板链接](https://github.com/Bytom/Bytom-Grant/blob/master/template.md)
 
 你的描述越详细，通过的概率越大，请仔细填写
 
