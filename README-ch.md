@@ -23,7 +23,7 @@
 
 2.1、填写Google表单初步描述您和您的项目信息
 
-http://bytomgrant.mikecrm.com/1PBhAyH
+[表单链接](http://bytomgrant.mikecrm.com/1PBhAyH)
 
 2.2、填写详细的项目说明书
 
@@ -120,7 +120,7 @@ http://bytomgrant.mikecrm.com/1PBhAyH
 
 **1、我怎么申请赏金任务？**
 
-只要你有好的idea或者想要尝试赏金列表中的任务，可以随时进行申请，可以通过google表单申请：http://bytomgrant.mikecrm.com/1PBhAyH
+只要你有好的idea或者想要尝试赏金列表中的任务，可以随时进行申请，可以通过google表单申请：[表单链接](http://bytomgrant.mikecrm.com/1PBhAyH)
 
 **2、申请赏金需要什么条件？**
 
