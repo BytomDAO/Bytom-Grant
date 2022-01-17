@@ -21,11 +21,7 @@
 
 #### 2、申请
 
-2.1、填写Google表单初步描述您和您的项目信息
-
-[表单链接](http://bytomgrant.mikecrm.com/1PBhAyH)
-
-2.2、填写详细的项目说明书
+填写详细的项目说明书
 
 参考项目说明书模板，[模板链接](https://github.com/Bytom/Bytom-Grant/blob/master/template.md)
 
@@ -64,8 +60,6 @@
 
 - **软件和工具**
 
-  * 侧链Vapor多语言SDK（Java,C/C++,Python ......）
-
   * 资产跨链（BTC，ETH跨链），使用原子互换的方式（Atomic swaps）
 
   * Oracle(预言机)
@@ -79,8 +73,6 @@
   * Bapp开发
 
     * Defi
-
-    * 溯源
 
     * 游戏
 
@@ -120,7 +112,7 @@
 
 **1、我怎么申请赏金任务？**
 
-只要你有好的idea或者想要尝试赏金列表中的任务，可以随时进行申请，可以通过google表单申请：[表单链接](http://bytomgrant.mikecrm.com/1PBhAyH)
+只要你有好的idea或者想要尝试赏金列表中的任务，可以随时进行申请，可以在github上提交PR填写申请
 
 **2、申请赏金需要什么条件？**
 
