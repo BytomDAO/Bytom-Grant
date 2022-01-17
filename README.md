@@ -19,8 +19,6 @@ If you wish to apply for the Bytom bounty task, please follow the following proc
 
 ### 2.Apply 
 
-- Fill out the Google form to briefly describe you and your project: [Here](http://bytomgrant.mikecrm.com/1PBhAyH)
-
 - Fill in detailed project description
 
   Refer to the project instruction template: [Template](https://github.com/Bytom/Bytom-Grant/blob/master/template.md)
@@ -66,7 +64,6 @@ After the interview, we will consider the project in all aspects and reach a fin
 ## Bounty task list
 
 ### Software and tools
-- Sidechain Vapor Multilingual SDK (Java, C / C ++, Python ...)
 - Asset cross-chain (BTC, ETH cross-chain),Atomic swaps
 - Oracle 
 - Hardware wallet integration
@@ -75,8 +72,7 @@ After the interview, we will consider the project in all aspects and reach a fin
 - Bapp development
   - Defi
   - Traceability
-  - game
-  - tool
+  - Game
 
 ### Academic Research
 - Bottom layer research (consensus algorithms, UTXO models, etc.)
@@ -97,7 +93,7 @@ After the interview, we will consider the project in all aspects and reach a fin
 
 **1. How do I apply for a bounty task?**
 
-As long as you have good ideas or want to try the tasks in the bounty list, you can apply at any time, you can apply through google form: [Here](http://bytomgrant.mikecrm.com/1PBhAyH)
+As long as you have good ideas or want to try the tasks in the bounty list, you can apply at any time
 
 **2. What are the requirements for applying for a bounty?**
 
