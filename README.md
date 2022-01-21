@@ -1,5 +1,6 @@
-# bytom-grant
-As part of our commitment to promoting the Bytom ecosystem, we offer a comprehensive grants program focused on funding software and tools , research and technical education related to Bytom.
+# BMC-grant
+
+As part of our commitment to promoting the Bytom Sidechain ecosystem, we offer a comprehensive grants program focused on funding software and tools, research related to Bytom Sidechain（BMC）.
 
 - [Bounty Task Application Process](#bounty-task-application-process)
 - [Notes for Applicants](#notes-for-applicants)
@@ -9,11 +10,11 @@ As part of our commitment to promoting the Bytom ecosystem, we offer a comprehen
 
 ## Bounty Task Application Process
 
-If you wish to apply for the Bytom bounty task, please follow the following process:
+If you wish to apply for the BMC bounty task, please follow the following process:
 
 ### 1.Determine the scope of your project
 
-- Bytom provides a bounty task list, you can design your project according to these requirements, refer to the ["bounty task requirement list"](#Bounty-task-list)
+- BMC provides a bounty task list, you can design your project according to these requirements, refer to the ["bounty task requirement list"](#Bounty-task-list)
 - If you have a better idea, please let us know. Let's discuss it together or propose a new BMIP to us.
 - Confirm that your project meets the application requirements for the bounty task, refer to ["Notes for Bounty Task Application" ](#notes-for-applicants)
 
@@ -27,7 +28,7 @@ If you wish to apply for the Bytom bounty task, please follow the following proc
 
 ### 3.Initial evaluation 
 
-Bytom will evaluate applications base on these criteria: 
+BMC will evaluate applications base on these criteria: 
 
 - Due diligence on the applicants and/or teams 
 
@@ -67,7 +68,6 @@ After the interview, we will consider the project in all aspects and reach a fin
 - Asset cross-chain (BTC, ETH cross-chain),Atomic swaps
 - Oracle 
 - Hardware wallet integration
-- Sidechain centralized node services (similar to infrua)
 - Sidechain Bapp integrated development environment (similar to remix)
 - Bapp development
   - Defi
@@ -75,17 +75,10 @@ After the interview, we will consider the project in all aspects and reach a fin
   - Game
 
 ### Academic Research
-- Bottom layer research (consensus algorithms, UTXO models, etc.)
 - Cryptography (MPC, zkrollup, etc.)
 - Protocol research (cross-chain protocols, layer 2 protocols, etc.)
 - Analysis of existing protocols
 - Security research (cross-chain gateway security research, etc.)
-
-### Education and Documentation
-- Introduction videos/articles (Bytom main chain, side chain, Bystack, MOV, etc.)
-
-- Technical videos/articles (Bytom underlying protocol, consensus algorithm, network, smart contract, and cross-chain protocol for system introduction)
-- translation
 
 
 
